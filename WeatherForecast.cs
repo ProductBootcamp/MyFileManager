@@ -2,6 +2,7 @@ using System;
 
 namespace MyFileManager
 {
+    //This is sample comments for Forecast model
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
