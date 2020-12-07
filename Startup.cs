@@ -13,6 +13,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 //test world.com
 //hello world
+//test 3rd
 namespace MyFileManager
 {
     public class Startup
